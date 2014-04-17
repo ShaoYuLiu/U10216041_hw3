@@ -33,7 +33,7 @@ public class BMI extends JFrame{
 		p3.add(jtfBMI);
 		p3.add(new JLabel("Status= "));
 		p3.add(jtfStatus);
-
+		//44444
 		// Add the panels to the frame
 		add(p1, BorderLayout.NORTH);
 		add(p2, BorderLayout.CENTER);
